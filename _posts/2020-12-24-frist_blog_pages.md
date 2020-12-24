@@ -6,8 +6,7 @@ tags: [first try]
 comments: true
 author: Vajuw
 ---
-## 第一篇博客
-
-测试 测试
+今天是平安夜！吃了好多水果，有柚子、草莓、桑葚、...
+试 测试
 
 <!--more-->
