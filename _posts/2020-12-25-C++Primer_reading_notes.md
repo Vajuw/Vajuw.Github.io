@@ -8,10 +8,5 @@ author: Vajuw
 
 ---
 
-<u>kasda</u>
 
-![image-20201228144541476](https://raw.githubusercontent.com/Vajuw/Vajuw.github.io/master/test/image-20201228144541476.png)
 
-![image-20201228154357781](https://raw.githubusercontent.com/Vajuw/Vajuw.github.io/master/_images/testimage-20201228154357781.png)
-
-![image-20201228160436205](https://raw.githubusercontent.com/Vajuw/Vajuw.github.io/master/_images/testimage-20201228160436205.png)
