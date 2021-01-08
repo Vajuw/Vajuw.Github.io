@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "网站的第一篇blog"
+title: "c++Primer_reading_notes"
 date:   2020-12-24
 tags: [first try]
 comments: true
